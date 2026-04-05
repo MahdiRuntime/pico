@@ -278,6 +278,19 @@ blink/fast:
 	$(MAKE) $(MAKESILENT) -f blink/CMakeFiles/blink.dir/build.make blink/CMakeFiles/blink.dir/build
 .PHONY : blink/fast
 
+#=============================================================================
+# Target rules for targets named log
+
+# Build rule for target.
+log: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 log
+.PHONY : log
+
+# fast build rule for target.
+log/fast:
+	$(MAKE) $(MAKESILENT) -f log/CMakeFiles/log.dir/build.make log/CMakeFiles/log.dir/build
+.PHONY : log/fast
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -299,6 +312,7 @@ help:
 	@echo "... blink"
 	@echo "... bs2_default"
 	@echo "... bs2_default_library"
+	@echo "... log"
 .PHONY : help
 
 

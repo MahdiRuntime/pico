@@ -1,1 +1,2 @@
 /firmware/blink.uf2
+/firmware/log.uf2

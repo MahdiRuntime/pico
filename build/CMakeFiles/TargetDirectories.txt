@@ -637,3 +637,16 @@
 /home/dev/ws/pico/build/blink/pico-sdk/CMakeFiles/install.dir
 /home/dev/ws/pico/build/blink/pico-sdk/CMakeFiles/install/local.dir
 /home/dev/ws/pico/build/blink/pico-sdk/CMakeFiles/install/strip.dir
+/home/dev/ws/pico/build/log/CMakeFiles/log.dir
+/home/dev/ws/pico/build/log/CMakeFiles/edit_cache.dir
+/home/dev/ws/pico/build/log/CMakeFiles/rebuild_cache.dir
+/home/dev/ws/pico/build/log/CMakeFiles/list_install_components.dir
+/home/dev/ws/pico/build/log/CMakeFiles/install.dir
+/home/dev/ws/pico/build/log/CMakeFiles/install/local.dir
+/home/dev/ws/pico/build/log/CMakeFiles/install/strip.dir
+/home/dev/ws/pico/build/log/pico-sdk/CMakeFiles/edit_cache.dir
+/home/dev/ws/pico/build/log/pico-sdk/CMakeFiles/rebuild_cache.dir
+/home/dev/ws/pico/build/log/pico-sdk/CMakeFiles/list_install_components.dir
+/home/dev/ws/pico/build/log/pico-sdk/CMakeFiles/install.dir
+/home/dev/ws/pico/build/log/pico-sdk/CMakeFiles/install/local.dir
+/home/dev/ws/pico/build/log/pico-sdk/CMakeFiles/install/strip.dir
