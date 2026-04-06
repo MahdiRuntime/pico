@@ -13,3 +13,5 @@ pico_sdk_init()
 
 add_subdirectory(blink)
 add_subdirectory(log)
+add_subdirectory(btn)
+add_subdirectory(interrupt)
